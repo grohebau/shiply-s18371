@@ -1,0 +1,47 @@
+{
+  "S18371": {
+    "status": "Waiting for payment",
+    "statusClass": "pending",
+    "sender": "Thomas Kehl, Am Brink 8, 18209 Bad Doberan, Germany",
+    "receiver": "Sergio Parra Montarroso, C. Emilia Pardo Bazán, 15, P01 D, 13170 Miguelturra, Ciudad Real, Spain",
+    "price": "2.500 €",
+    "description": "Manufacturer: Suzuki<br>Model: RGV 250 VJ22A<br>Chassis number: VJ22A116908<br>First registration: 03/1992<br>Mileage according to previous owner: 13.055 km<br>Power: 48 kW (65 PS)<br>Engine capacity: 249 cm³<br>Farbe: Red<br><br>The motorcycle is fully functional, no falls or accidents.<br>All papers and keys are included.",
+    "address": "Sergio Parra Montarroso<br>C. Emilia Pardo Bazán, 15, P01 D<br>13170 Miguelturra, Ciudad Real<br>Spain<br>Telefon: +34 686935928",
+    "documents": [
+      {
+        "name": "Delivery note",
+        "url": "docs/Delivery_note.pdf"
+      },
+      {
+        "name": "Purchase contract",
+        "url": "docs/Purchase_Contract.pdf"
+      },
+      {
+        "name": "Invoice",
+        "url": "docs/Invoice.pdf"
+      },
+      {
+        "name": "Terms & Conditions",
+        "url": "docs/Terms.pdf"
+      }
+    ],
+    "orderDate": "27-08-2025",
+    "deliveryDate": "03-09-2025",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "C. Emilia Pardo Bazán, 15, P01 D",
+      "postal_code": "13170",
+      "city": "Miguelturra, Ciudad Real",
+      "country": "Spain",
+      "lat": "38.97016342385438",
+      "lng": "-3.892817816085039"
+    }
+  }
+}
